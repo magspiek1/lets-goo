@@ -1,0 +1,15 @@
+body {
+    background-image: image(Dogoo_hero_1920x1080);
+}
+
+p {
+    font-family: Arial, Helvetica, sans-serif
+}
+
+.something {
+    background-color: aqua;
+}
+
+img {
+    width: 200px;
+}
